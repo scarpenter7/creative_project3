@@ -1,0 +1,98 @@
+/* Menu */
+.bg-dark {
+  background-color: #333333 !important;
+}
+
+img {
+  width: 100%;
+}
+
+.home-bg {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.portrait-left {
+  width: 40%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Top left text */
+.top-left {
+  position: fixed;
+  top: 200px;
+  left: 120px;
+}
+
+.top-left-absolute {
+  position: absolute;
+  top: 200px;
+  left: 120px;
+}
+
+.top-right{
+  position: absolute;
+  left: 73%;
+  bottom: 60%;
+}
+
+.parent{
+  position: relative;
+  bottom: 20%
+}
+
+.bottom-right{
+  position: absolute;
+  left: 40%;
+  bottom: 0%;
+  inline-size: 800px; 
+}
+
+.musician-name {
+  inline-size: 800px; 
+  position: absolute;
+  left: 40%;
+  bottom: 65%;
+}
+
+.johnfrus-parent{
+  position: absolute;
+  left: 8%
+}
+
+.johnfrus-description {
+  position: absolute;
+  bottom: -950px;
+  inline-size: 800px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px
+}
+
+
+h1 {
+  color: white;
+  font-size:100px;
+}
+
+h2 {
+  color: white;
+  font-size:60px;
+}
+
+h3 {
+  font-size:40px;
+  color: white;
+}
+
+h5 {
+    color: white;
+}
+
+p {
+    color: white;
+    font-size:20px;
+}
